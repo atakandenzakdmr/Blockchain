@@ -59,10 +59,10 @@ Merkezi olmayan kripto para birimi söz konusu olduğunda, şirketler veya devle
 
 <summary> Twitterdan Takip Edilebilecek Kişiler </summary>
 * https://twitter.com/professortrk 
-* https://twitter.com/erhanunall
-* https://twitter.com/proftrader12
-* https://twitter.com/cryptotrader060
-* https://twitter.com/cryptoerge
+* https://twitter.com/erhanunall 
+* https://twitter.com/proftrader12 
+* https://twitter.com/cryptotrader060 
+* https://twitter.com/cryptoerge 
 
 </details>
  
