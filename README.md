@@ -57,20 +57,65 @@ Merkezi olmayan kripto para birimi söz konusu olduğunda, şirketler veya devle
 
 <details>
 
-<summary> Twitterdan Takip Edilebilecek Kişiler </summary>
-* https://twitter.com/professortrk 
-* https://twitter.com/erhanunall 
-* https://twitter.com/proftrader12 
-* https://twitter.com/cryptotrader060 
-* https://twitter.com/cryptoerge 
+<summary> Kaynakça </summary>
+* https://www.paribu.com/blog/sozluk/kripto-para-nedir/
+* 
+
+</details>
+
+# Kripto Paralar ile Borsa İşlemleri
+
+<p align="center">
+
+<img src="images/ticaret-görünümü.jpg">
+
+</p>
+ 
+### Hangi platform seçilmeli?
+https://buldumz.com/bitcoin-siteleri/
+
+### Borsa analiz ve takip
+https://www.tradingview.com/
+https://coinmarketcap.com/
+
+### Teknik Analiz?
+-Ninja Traders
+https://www.youtube.com/watch?v=hyzgB7ywXAU&list=PLIKzMauOpbFmzspyCqJ0r76dexIdCGyks&index=2
+-Crypto Kemal
+https://www.youtube.com/watch?v=gfMLFtvK0Yg&list=PLNEl6PKNnANNnWohb7GQEhNkYgUNTVTgl&index=2
+
+### Borsada işlemler nasıl yapılıyor?
+* Al-Sat Taktikleri
+https://www.youtube.com/watch?v=Nk8dbSnigOY&list=PLNEl6PKNnANOQq_99QK6SPyIJKSMYVaYP&index=2
+
+* Spot Trade
+https://www.youtube.com/watch?v=-g8ahRvYA0o&list=PLoC3jsqarx_lvoP1fGyxbPA9f1VdN3-2R&index=5
+
+* Margin Trade 
+https://www.youtube.com/watch?v=79psiyfBO00 
+https://www.youtube.com/watch?v=vsehwiASloE
+
+* Futures Vadeli Trade
+https://www.youtube.com/watch?v=eO9e1OAnBW8
+ 
+<details>
+
+<summary> YouTube'da Takip Edilebilecek Kişiler </summary>
+* https://www.youtube.com/c/CryptoKemal/
+* https://www.youtube.com/c/NinjaTraders/
+* https://www.youtube.com/c/KriptoS%C3%B6zl%C3%BCk/
+* https://www.youtube.com/c/KriptoFati/
 
 </details>
  
 <details>
 
-<summary> Kaynakça </summary>
-* https://www.paribu.com/blog/sozluk/kripto-para-nedir/
-* 
+<summary> Twitter'da Takip Edilebilecek Kişiler </summary>
+* https://twitter.com/professortrk 
+* https://twitter.com/erhanunall 
+* https://twitter.com/proftrader12 
+* https://twitter.com/cryptotrader060 
+* https://twitter.com/cryptoerge 
 
 </details>
  
