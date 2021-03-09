@@ -22,8 +22,7 @@ Blokzincirler şeffaflığın yanı sıra yüksek derecede gizlilik sağlar. Blo
 
 <summary> Kaynakça </summary>
 https://www.btcturk.com/bilgi-platformu/blockchain-blokzinciri-teknolojisi-nedir/ \
-https://www.paribu.com/blog/sozluk/blokzincir-nedir/ \
-https://duzce.edu.tr/yonetim-bilisim-sistemleri/Sayfa/8C9A/blockchain-nedir-#:~:text=Bloklardan%20olu%C5%9Fan%20zincir%20yap%C4%B1daki%20Blockchain,bilgilerden%20her%20biri%20bir%20bloktur 
+https://www.paribu.com/blog/sozluk/blokzincir-nedir/ 
 
 </details>
 
@@ -35,9 +34,10 @@ https://duzce.edu.tr/yonetim-bilisim-sistemleri/Sayfa/8C9A/blockchain-nedir-#:~:
 
 </p>
 
+Blokzincir teknolojisinin en bilinen ürünü ise, _kripto para_ birimleridir.
+
 Bitcoin ve Ethereum en popüler <a href="https://coinmarketcap.com/"> Blockzincir Ağlarıdır </a>.  
 
-Blokzincir teknolojisinin en bilinen ürünü ise, _kripto para_ birimleridir.
 
 
 
