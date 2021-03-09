@@ -12,7 +12,7 @@ Bilgisayarını kullanarak bir blokzincire katılan herkes, blokzincirde bir “
 
 Blokzincirler şeffaflığın yanı sıra yüksek derecede gizlilik sağlar. Blokzincir kullanan bir kişinin (veya makinenin) kimliği bir kod dizisinin arkasında gizlidir. Bu kişi kimliğini kendisi açıklamadıkça kim olduğu bilinemez. Ancak bu kimlik tarafından yapılan işlemler şeffaftır.
 
-Bitcoin ve Ethereum en popüler blokzincirler ağlarıdır.  <a href="http://https://coinmarketcap.com/"> Blockzincir Ağlarıdır </a>
+Bitcoin ve Ethereum en popüler <a href="http://https://coinmarketcap.com/"> Blockzincir Ağlarıdır </a>.  
 
 Blokzincir teknolojisinin en bilinen ürünü ise, kripto para birimleridir.
 
