@@ -12,7 +12,7 @@ Bilgisayarını kullanarak bir blokzincire katılan herkes, blokzincirde bir “
 
 Blokzincirler şeffaflığın yanı sıra yüksek derecede gizlilik sağlar. Blokzincir kullanan bir kişinin (veya makinenin) kimliği bir kod dizisinin arkasında gizlidir. Bu kişi kimliğini kendisi açıklamadıkça kim olduğu bilinemez. Ancak bu kimlik tarafından yapılan işlemler şeffaftır.
 
-!images/blockchain-yapisi.png
+<img src="images/blockchain-yapisi.png">
 
 <details>
 
@@ -24,16 +24,12 @@ https://www.paribu.com/blog/sozluk/blokzincir-nedir/ \
 https://duzce.edu.tr/yonetim-bilisim-sistemleri/Sayfa/8C9A/blockchain-nedir-#:~:text=Bloklardan%20olu%C5%9Fan%20zincir%20yap%C4%B1daki%20Blockchain,bilgilerden%20her%20biri%20bir%20bloktur \
 
 </details>
- 
+# Kripto Para
+<img src="images/kripto-para.jpg">
+
 Bitcoin ve Ethereum en popüler <a href="https://coinmarketcap.com/"> Blockzincir Ağlarıdır </a>.  
 
 Blokzincir teknolojisinin en bilinen ürünü ise, _kripto para_ birimleridir.
-
-# Kripto Para
-
-
-
-
 
 
 
