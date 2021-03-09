@@ -78,6 +78,9 @@ https://buldumz.com/bitcoin-siteleri/
 https://www.tradingview.com/
 https://coinmarketcap.com/
 
+### Türkiye'de Kripto Para Farkındalığı 2021
+https://assets.coingecko.com/reports/Surveys/2021-Turkey-Cryptocurrency-Survey-Turkish-Translation.pdf?utm_source=kripto_sozluk&utm_campaign=turkey_survey&utm_medium=social&0=
+
 ### Teknik Analiz?
 -Ninja Traders
 https://www.youtube.com/watch?v=hyzgB7ywXAU&list=PLIKzMauOpbFmzspyCqJ0r76dexIdCGyks&index=2
@@ -97,6 +100,8 @@ https://www.youtube.com/watch?v=vsehwiASloE
 
 * Futures Vadeli Trade
 https://www.youtube.com/watch?v=eO9e1OAnBW8
+
+
  
 <details>
 
