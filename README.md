@@ -101,7 +101,18 @@ https://www.youtube.com/watch?v=vsehwiASloE
 * Futures Vadeli Trade
 https://www.youtube.com/watch?v=eO9e1OAnBW8
 
+<details>
 
+<summary> Udemy'den Takip Edilebilecek Eğitimler </summary>
+* https://www.udemy.com/course/teknik-analiz-temel-analiz-borsa-kripto-para-blockchain-bitcoin-defi/
+=>
+ Kurs çok başarılı.
+ Bana göre artıları;
+ Özellikle kendi yaşadıkları deneyimleri paylaşıyorlar.
+ İşin en önemli tarafı olan psikolojiyi üstüne basa basa kafanıza çakıyorlar.
+ Formasyonları gayet açık anlatıyorlar.
+
+</details>
  
 <details>
 
